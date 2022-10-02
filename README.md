@@ -1,10 +1,10 @@
 # smallresources for RDX
 
 ## Installation
-You need to do a couple steps to get it working.
-First you ensure adding the resources to your server.cfg.
+You need to do a couple steps to get it working
+First you ensure adding the resource to your server.cfg
 
-- Put all folders in your resources folder and ensure:
+- Put the folder in your resources folder and ensure:
 ```
 ensure rdx_smallresources
 ```
